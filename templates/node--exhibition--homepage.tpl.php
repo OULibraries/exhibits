@@ -92,7 +92,7 @@
 		
 		<div class="col-md-6 col-sm-12 col-xs-12"> 
 			<h3><?php print $title_attributes; ?><?php print $title; ?></h3>
-			<div><?php print render($content['field_description']); ?></div>
+			<div><?php print render($content['field_description']); ?></div><br>
 			<div><?php print render($content['field_link']); ?></div>
 		</div>
 		
