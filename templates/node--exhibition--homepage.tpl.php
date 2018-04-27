@@ -93,7 +93,7 @@
 		<div class="col-md-6 col-sm-12 col-xs-12"> 
 			<h3><?php print $title_attributes; ?><?php print $title; ?></h3>
 			<div><?php print render($content['field_description']); ?></div><br>
-			<div><a href="<?php print render($content['field_link']); ?>">Website<span class="glyphicon glyphicon-new-window"></span></a></div>
+			<div><?php print render($content['field_link']); ?></div>
 		</div>
 		
 	</div>
