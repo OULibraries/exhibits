@@ -87,7 +87,7 @@
 	<div class="row">
 		
 		<div class="col-md-3 col-sm-12 hidden-xs">
-			<div class="paragraphs_image"><?php print render($content['field_image']);?></div>
+			<div class="paragraphs_image"><?php print render($content['field_logo']);?></div>
 		</div>
 		
 		<div class="col-md-9 col-sm-12 col-xs-12"> 
