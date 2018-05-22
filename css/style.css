@@ -7,6 +7,7 @@
    Main Carousel
    Navigation Bar
    Site Name
+   Calendar
    Paragraph Styling
    - - - - - - - - -
  */
@@ -383,6 +384,23 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 	-o-transition: all 0.3s linear;
 	transition: all 0.3s linear;
 }
+
+
+
+/* Calendar */
+
+.calendar-calendar .month-view .full td.multi-day div.monthview{
+	height: 2.5em;
+	color: #323232;
+	font-size: .7em;
+	border: 1px solid #cacaca;
+	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+.calendar-calendar .month-view .full td.multi-day .inner .monthview .continues{
+	background-color: transparent;
+}
+
 
 
 /**
