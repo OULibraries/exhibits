@@ -60,7 +60,7 @@ h4, h5, h6{
 
 .lib_logo{
 	background-color: #000;
-	border-bottom: 10px solid #fff;
+	/* border-bottom: 10px solid #fff; */
 }
 
 .rounded-border{ /* Rounded border + dropshadow design element */
