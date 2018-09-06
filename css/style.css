@@ -20,7 +20,6 @@
 body {
     font-family: 'Droid Sans';
 	font-size: 1.6em;
-	line-height: 1.25;
 }
 
 a {
@@ -79,10 +78,6 @@ h4, h5, h6{
 .red-left{
 	border-left: 10px solid #841617;
 	padding: 12px;
-}
-
-p {
-  line-height: 24px;	
 }
 
 
